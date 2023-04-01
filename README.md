@@ -36,8 +36,8 @@ BPETST
 
 ```
 TODO:\
-- :white_check_mark 
-- :white_large_square 
+:white_check_mark \
+:white_large_square 
 
 ## Dataset 数据集介绍
 ###电力变压器数据集 (ETDataset)
